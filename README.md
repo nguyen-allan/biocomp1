@@ -9,6 +9,7 @@ Concept: This project teaches you the fundamentals: fetching data, running a bas
 
 Methodology:
 Data Acquisition: Use Biopython's Entrez module to programmatically search UniProtKB/Swiss-Prot for all reviewed proteins associated with Naja naja and the keyword "venom". Save these as a FASTA file.
+
 Functional Annotation: For each protein sequence you downloaded, use Python to send a request to the Pfam or InterPro web API to identify its functional domains. (Alternatively, you can download command-line versions of these tools).
 
 
