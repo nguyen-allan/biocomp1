@@ -1,7 +1,10 @@
 # biocomp1
 
 Project 1: Beginner - "Venom Component Profiling of a Well-Characterized Species"
+
 Scientific Question: What are the major protein families in the venom of the Indian Cobra (Naja naja)?
+
+
 Concept: This project teaches you the fundamentals: fetching data, running a basic similarity search, and functional annotation. It's the "Hello, World!" of toxinology.
 
 Methodology:
