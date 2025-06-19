@@ -1,4 +1,4 @@
-# compbioprojects - Project #1
+# Project #1
 
 Project 1: Beginner - "Venom Component Profiling of a Well-Characterized Species"
 
@@ -17,6 +17,3 @@ Parse the results from your annotation search.
 Use pandas to count the occurrences of each toxin family (e.g., Three-finger toxin, Snake venom metalloproteinase, Phospholipase A2).
 Use matplotlib or seaborn to create a pie or bar chart showing the relative abundance of each family.
 Skills Showcased: Database querying (API usage), file parsing (FASTA), basic functional annotation, data aggregation (pandas), and scientific visualization (matplotlib).
-
-
-# biocomp1
